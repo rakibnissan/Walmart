@@ -1,0 +1,18 @@
+
+
+<suite name="Suite">
+
+<listener>
+<listener class-name="Listener"/>
+</listener>
+
+  <test name="Testing for listener">
+  
+  
+    <classes>
+      
+      <class name="TestNGListener.Softasssertion"/>
+     
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
